@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lup_Mara_Lab2", "Lup_Mara_Lab2.csproj", "{C70EF991-DA87-4E15-8ECD-82DCA4AB928B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70EF991-DA87-4E15-8ECD-82DCA4AB928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70EF991-DA87-4E15-8ECD-82DCA4AB928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70EF991-DA87-4E15-8ECD-82DCA4AB928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70EF991-DA87-4E15-8ECD-82DCA4AB928B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95457B4-B332-4700-A239-7587D8474F82}
+	EndGlobalSection
+EndGlobal
